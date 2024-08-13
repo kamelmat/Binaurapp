@@ -1,6 +1,6 @@
 ## Binaurapp
 
-# WebApp boilerplate with React JS and Flask API 
+# WebApp with React JS and Flask API 
 
 This is a web applications using React.js for the front end and python/flask for the backend API.
 
